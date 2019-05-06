@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/first-app/static/css/main.584f321a.chunk.css",
-    "main.js": "/first-app/static/js/main.21686614.chunk.js",
-    "main.js.map": "/first-app/static/js/main.21686614.chunk.js.map",
-    "runtime~main.js": "/first-app/static/js/runtime~main.ada60267.js",
-    "runtime~main.js.map": "/first-app/static/js/runtime~main.ada60267.js.map",
-    "static/js/2.b41502e9.chunk.js": "/first-app/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/first-app/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/first-app/index.html",
-    "precache-manifest.0fa31ed22c75c9747b9d2618f6e3f90f.js": "/first-app/precache-manifest.0fa31ed22c75c9747b9d2618f6e3f90f.js",
-    "service-worker.js": "/first-app/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/first-app/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/first-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/first-reactapp/static/css/main.584f321a.chunk.css",
+    "main.js": "/first-reactapp/static/js/main.875112bf.chunk.js",
+    "main.js.map": "/first-reactapp/static/js/main.875112bf.chunk.js.map",
+    "runtime~main.js": "/first-reactapp/static/js/runtime~main.7443917e.js",
+    "runtime~main.js.map": "/first-reactapp/static/js/runtime~main.7443917e.js.map",
+    "static/js/2.b41502e9.chunk.js": "/first-reactapp/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/first-reactapp/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/first-reactapp/index.html",
+    "precache-manifest.466c4dbe1449fe3c7f4ffc6a8f6a6bb4.js": "/first-reactapp/precache-manifest.466c4dbe1449fe3c7f4ffc6a8f6a6bb4.js",
+    "service-worker.js": "/first-reactapp/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/first-reactapp/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/first-reactapp/static/media/logo.5d5d9eef.svg"
   }
 }
